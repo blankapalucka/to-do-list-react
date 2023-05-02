@@ -1,4 +1,3 @@
-import React from "react";
 import "./style.css";
 
 const Buttons = ({ tasks, hideDoneTasks }) => (
@@ -13,12 +12,10 @@ const Buttons = ({ tasks, hideDoneTasks }) => (
                     disabled={tasks.every(({ done }) => done)}
                 >
                     Ukończ wszystkie
-
                 </button>
-
             </>
         )}
-    </div >
+    </div>
 );
 
 
