@@ -6,7 +6,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 
-![screen](./images/screen.png)
+![screen](./public/images/screen.png)
 ## Technologies
 
 1. React
