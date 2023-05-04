@@ -25,13 +25,16 @@
     height: 30px;
     text-decoration: none;
     transition: 0.3s;
+    border:none;
 }
+
 
 .tasks__button--toggleDone {
     background-color: green;
     width: 30px;
     height: 30px;
     color: white;
+    border:none;
 }
 
 .tasks__button--remove {
