@@ -43,8 +43,8 @@ function App() {
         title="Lista zadań"
         body={
         <Tasks
-          tasks={tasks} h
-          ideDone={hideDone}
+          tasks={tasks} 
+          hideDone={hideDone}
           removeTask={removeTask}
           toggleTaskDone={toggleTaskDone}
         />
